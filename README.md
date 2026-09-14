@@ -1,4 +1,5 @@
-## Hello, my name is Hyeonchae. I’m happy to be taking the Open Source sw. I’ll do my best and work hard !😚
+## Hi!
+My name is Lee Hyeon chae. I’m happy to be taking the Open Source sw. I’ll do my best and work hard !😚
 
 <!--
 **hyncheacity-lab/hyncheacity-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
